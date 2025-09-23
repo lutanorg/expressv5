@@ -1,0 +1,22 @@
+{
+  "name": "expressv5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@contrast/agent": "^5.44.0",
+    "@dynatrace/oneagent": "^1.295.65-1.0.0",
+    "express": "^5.0.0",
+    "pg": "^8.13.1",
+    "pg-cloudflare": "^1.2.7"
+  },
+  "devDependencies": {
+    "@contrast/cli": "^1.55.0"
+  }
+}
